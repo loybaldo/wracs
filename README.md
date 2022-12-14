@@ -1,4 +1,4 @@
-# wracs
+# Wracs
 
 A cross-platform application used for penetration testing.
 
