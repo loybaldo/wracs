@@ -15,3 +15,15 @@ A cross-platform application used for penetration testing.
   ```powershell
   npm start
   ```
+  
+  - Run on android
+  
+    ```powershell
+    npm run android
+    ```
+    
+  - Run on iOS
+  
+    ```powershell
+    npm run ios
+    ```
